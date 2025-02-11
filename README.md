@@ -16,7 +16,7 @@ Design thinking has been crucial in helping me empathize with users, identify th
 
 <img src="https://github.com/khiraanisa/files/blob/main/Screenshot%202025-02-12%20011251.png" alt="Classroom Discussion Photo" width="200">
 
-[EverCare Full Report](https://github.com/khiraanisa/files/blob/main/REPORT%20DESIGN%20THINKING%20PROJECT%20(GROUP%205)%20.pdf)
+Full report here >> [EverCare Full Report](https://github.com/khiraanisa/files/blob/main/REPORT%20DESIGN%20THINKING%20PROJECT%20(GROUP%205)%20.pdf)
 
 ### 💡 QnA Regarding EverCare  
 
