@@ -1,16 +1,16 @@
-# DESIGN-THINKING PROJECT
+# DESIGN THINKING PROJECT
 
-# EverCare - Healthcare App for Elderly People
+# _EverCare_ - Healthcare App for Elderly People💡
 
 <span style="color:purple; font-weight:bold">📅 Date:</span> <span style="color:#4CAF50">December 23, 2024</span>  
 <span style="color:blue; font-weight:bold">📆 Day:</span> <span style="color:#4CAF50">Monday</span>
 
-## Overview 
+## 🧠 Overview 
 EverCare is a mobile application designed to help elderly individuals manage their health effortlessly. As people age, they often face challenges like forgetting to take medications, tracking vital signs, and scheduling doctor appointments. EverCare provides a simple, voice-assisted, and intuitive solution to help seniors stay on top of their health.
 
 With easy-to-use features like medication reminders, health records, emergency alerts, and doctor appointment scheduling, EverCare ensures that elderly users receive the care they need. By incorporating large text, minimal navigation steps, and voice commands, the app is accessible even for non-tech-savvy users. Built using a design thinking approach, our app prioritizes usability, accessibility, and real-world needs, making healthcare management stress-free and reliable for elderly people. 
 
-## Reflection
+## 🧠 Reflection
 My goal for this program is to enhance my critical thinking, technical skills, and ability to analyze problems and provide a solution. This project has shown me how bioinformatics can create practical solutions to improve lives. Working on this project has made me more grateful, as it opened my eyes to the struggles faced by a disadvantaged group like the elderly.
 Design thinking has been crucial in helping me empathize with users, identify their needs, and create an app to help them. Testing the app thoroughly with real users will ensure it meets their needs effectively. To improve my potential in the industry, I will refine my bioinformatics skills, particularly in data analysis and technical areas. Additionally, I will focus on gaining hands-on experience through projects to help me relate bioinformatics with real-world applications.
 
